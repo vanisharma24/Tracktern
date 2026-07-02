@@ -1,4 +1,4 @@
-# JobTrack
+# Tracktern
 
 A full-stack job search and application tracker for any field, in any of 12 countries — built to replace the browser-tabs-and-spreadsheet approach to job hunting with one tool that actually tracks where you stand.
 
@@ -16,7 +16,6 @@ I wanted a single place to search for roles across fields and locations and trac
 - 📌 **Save & track** — save any listing and move it through a real application pipeline: Saved → Applied → Interviewing → Offer / Rejected
 - ⚡ **Fast, serverless backend** — Next.js API routes with a Supabase (PostgreSQL) database, no server to manage
 - 🕸️ *(Optional)* **Company page scraping** — a Cheerio-based scraper for pulling listings directly from an individual company's careers page
-
 
 
 ## Tech Stack
@@ -40,7 +39,7 @@ I wanted a single place to search for roles across fields and locations and trac
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/Tracktern.git
+git clone https://github.com/yourusername/jobtrack.git
 cd jobtrack
 npm install
 ```
@@ -106,6 +105,7 @@ tracktern/
 ├── next.config.ts
 ├── package.json
 └── README.md
+```
 
 ## Roadmap / Future Improvements
 
